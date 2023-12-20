@@ -21,7 +21,7 @@ const Products = () => {
     }
     else {
       const res = await axios.get(
-        "http://localhost:4000/api/products"
+        "https://mobile-order-backend.onrender.com/api/products"
       );
       setProd(res.data);
       console.log(res.data)
