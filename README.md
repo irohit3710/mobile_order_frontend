@@ -43,9 +43,9 @@
 
 ## Links
 
-- [Live-Link](https://tech-alpha-a3.netlify.app)
-- [Front-End-Link](https://github.com/Shm-Rsuf/tech-alpha-client.git)
-- [Back-End-Link](https://github.com/Shm-Rsuf/tech-alpha-server.git)
+- [Live-Link](https://mobile-order-frontend.vercel.app/)
+- [Front-End-Link](https://github.com/irohit3710/mobile_order_frontend)
+- [Back-End-Link](https://github.com/irohit3710/mobile_order_backend)
 
 
 
