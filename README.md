@@ -1,7 +1,7 @@
 
-## Tech Alpha
+## Mobile Order
 
- Welcome to Tech-Alpha, A MERN stack e-commerce platform that redefines the online shopping experience. Seamlessly merging the power of MongoDB, Express.js, React, and Node.js, Tech-Alpha offers a dynamic and feature-rich vironment for customers.
+ Welcome to Mobile Order, A MERN stack e-commerce platform that redefines the online shopping experience for Mobiles. Seamlessly merging the power of MongoDB, Express.js, React, and Node.js, Tech-Alpha offers a dynamic and feature-rich vironment for customers.
  
 ## Features
 
