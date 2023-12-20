@@ -13,7 +13,7 @@ const Products = () => {
     setLoading(true);
     if (search.trim().length > 0) {
       const res = await axios.get(
-        `http://localhost:4000/api/products/search/${search.trim()}`
+        `https://mobile-order-backend.onrender.com/api/products/search/${search.trim()}`
       );
       setProd(res.data);
       console.log(res.data)
